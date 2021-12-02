@@ -1,12 +1,5 @@
 # PubNub Team Chat
 
-[![Build Status](https://travis-ci.com/pubnub/typescript-ref-app-team-chat.svg?branch=master)](https://travis-ci.com/pubnub/typescript-ref-app-team-chat)
-
-The team chat app demonstrates how to build a feature-rich chat and team collaboration application using [PubNub Chat](https://www.pubnub.com/docs/chat/quickstart). Learn how to manage users, join chat rooms, and send messages with PubNub. Learn how to build advanced features like profanity filtering, gifs, and link previews. You can download the project to run on your local machine, and explore the code to see how we built it.
-
-Check out the [Team Chat Tutorial](https://pubnub.github.io/typescript-ref-app-team-chat/docs/introduction).
-
-
 The application demonstrates how to build a chat application using:
 
 - PubNub
