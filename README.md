@@ -46,4 +46,3 @@ The application demonstrates how to build a chat application using:
 
 For more information, head over to [Team Chat Tutorial](https://pubnub.github.io/typescript-ref-app-team-chat/docs/introduction) and get started building chat today.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Special thanks to Martin Lagrange, Elvis Wolcott, and Mark Erikson.
